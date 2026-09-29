@@ -1,0 +1,6 @@
+.env
+*.db
+weather_report.md
+__pycache__/
+venv/
+.venv/
